@@ -34,6 +34,7 @@
 #include "rendclient.h"
 #include "router.h"
 #include "routerset.h"
+#include <string.h>
 
 /* Return a human-readable string for the client fetch status code. */
 static const char *
